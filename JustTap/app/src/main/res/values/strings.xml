@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ASM1</string>
+    <string name="button1">item1</string>
+    <string name="button2">item2</string>
+    <string name="button3">item3</string>
+    <string name="button4">item4</string>
+    <string name="icon">icon</string>
+    <integer name="TTL">0</integer>
+    <integer name="right_click">0</integer>
+</resources>
